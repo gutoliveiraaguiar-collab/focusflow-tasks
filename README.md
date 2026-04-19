@@ -30,3 +30,17 @@ Um aplicativo de lista de tarefas (To-Do List) moderno, responsivo e com persist
 | **JavaScript (ES6+)** | Lógica do CRUD, manipulação do DOM, localStorage |
 
 ## 📂 Estrutura de Arquivos
+focusflow-tasks/
+│
+├── index.html # Estrutura principal e componentes Bootstrap
+├── style.css # Estilos customizados e animações
+├── app.js # Lógica da aplicação (CRUD, localStorage)
+└── README.md # Documentação do projeto
+
+Link:  https://gutoliveiraaguiar-collab.github.io/focusflow-tasks/
+
+## 🎯 Como Executar Localmente
+
+1. Clone o repositório:
+```bash
+git clone https://github.com/seu-usuario/focusflow-tasks.git
