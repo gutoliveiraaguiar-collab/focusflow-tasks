@@ -43,4 +43,4 @@ Link:  https://gutoliveiraaguiar-collab.github.io/focusflow-tasks/
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/focusflow-tasks.git
+git clone https://github.com/gutoliveiraaguiar-collab/focusflow-tasks.git
